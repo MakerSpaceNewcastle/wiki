@@ -1,0 +1,17 @@
+[book]
+title = "Maker Space Wiki"
+authors = ["Maker Space Members"]
+
+language = "en"
+multilingual = false
+
+src = "src"
+
+[build]
+build-dir = "out"
+create-missing = false
+
+[output.html]
+git-repository-url = "https://github.com/DanNixon/maker-space-wiki"
+edit-url-template = "https://github.com/DanNixon/maker-space-wiki/edit/main/{path}"
+fold.enable = true
