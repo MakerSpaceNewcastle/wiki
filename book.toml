@@ -12,6 +12,6 @@ build-dir = "out"
 create-missing = false
 
 [output.html]
-git-repository-url = "https://github.com/DanNixon/maker-space-wiki"
-edit-url-template = "https://github.com/DanNixon/maker-space-wiki/edit/main/{path}"
+git-repository-url = "https://github.com/MakerSpaceNewcastle/wiki"
+edit-url-template = "https://github.com/MakerSpaceNewcastle/wiki/edit/main/{path}"
 fold.enable = true
