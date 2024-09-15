@@ -1,5 +1,7 @@
 # Laser Cutter
 
+[<img class="right" src="./images/overview.jpg" alt="Laser cutter overview" width="40%">](./images/overview.jpg)
+
 A laser cutter.
 It cuts stuff using a laser.
 
