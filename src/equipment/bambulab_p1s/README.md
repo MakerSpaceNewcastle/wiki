@@ -7,7 +7,7 @@ A very good, quick FDM 3D printer.
 
 ## Essential Information
 
-- Location: Ground Floor, Main Space
+- Location: Ground Floor Workshop
 - Responsible Person(s): Dan Nixon
 - Induction Required: No
 
