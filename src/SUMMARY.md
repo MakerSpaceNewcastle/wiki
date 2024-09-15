@@ -14,3 +14,6 @@
         - [Entrance Lobby](./governance/induction/entrance_lobby.md)
         - [Main Workshop](./governance/induction/workshop.md)
         - [Basement](./governance/induction/basement.md)
+- [Wiki Guide](./wiki_guide/README.md)
+    - [Style Guide](./wiki_guide/style_guide.md)
+    - [Contributing](./wiki_guide/contributing.md)
