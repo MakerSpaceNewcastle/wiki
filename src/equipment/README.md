@@ -14,4 +14,6 @@ This is a list of the significant items, there are a lot of smaller/hand tools t
 |Belt/Disc Sander|Basement, Tall Side|Yes|
 |Chop Saw|Basement, Tall Side|?|
 |Workbee CNC Router|Basement, Short Side|Yes|
+|Air Compressor|Basement, Short Side|No|
 |Metal Lathe|Basement, Short Side|Yes|
+|Bench Grinder|Basement, Short Side|No?|
