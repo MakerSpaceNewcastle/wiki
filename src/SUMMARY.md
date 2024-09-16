@@ -2,6 +2,11 @@
 
 [Introduction](./introduction.md)
 
+- [The Space](./the_space/README.md)
+    - [Ground Floor Corridor](./the_space/ground_floor_corridor.md)
+    - [Ground Floor Workshop](./the_space/ground_floor_workshop.md)
+    - [South Basement Workshop](./the_space/south_basement_workshop.md)
+    - [North Basement Workshop](./the_space/north_basement_workshop.md)
 - [Equipment](./equipment/README.md)
     - [Laser Cutter](./equipment/laser_cutter/README.md)
     - [Bambu Lab P1S](./equipment/bambulab_p1s/README.md)

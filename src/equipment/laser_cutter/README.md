@@ -7,7 +7,7 @@ It cuts stuff using a laser.
 
 ## Essential Information
 
-- Location: Ground Floor, Corridor
+- Location: Ground Floor Corridor
 - Responsible Person(s): Dan Nixon
 - Induction Required: Yes
 

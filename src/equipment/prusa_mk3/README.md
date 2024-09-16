@@ -6,7 +6,7 @@ A sort of OK FDM 3D printer.
 
 ## Essential Information
 
-- Location: Ground Floor, Main Space
+- Location: Ground Floor Workshop
 - Responsible Person(s): ?
 - Induction Required: No
 
