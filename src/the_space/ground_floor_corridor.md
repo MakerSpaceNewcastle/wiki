@@ -8,4 +8,4 @@ At one end of the corridor, behold the pièce de résistance - the laser cutter.
 Its sleek metallic frame stands like a sentinel, ready to transform raw materials into precision-cut masterpieces.
 The hum of the extraction adds a symphonic undertone to the corridor’s rhythm.
 
-[![todo](./images/ground_floor_corridor.jpg)](./images/ground_floor_corridor.jpg)
+[![Overview of ground floor corridor](./images/ground_floor_corridor.jpg)](./images/ground_floor_corridor.jpg)
