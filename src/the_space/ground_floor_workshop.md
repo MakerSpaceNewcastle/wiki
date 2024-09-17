@@ -57,7 +57,25 @@ The south side of this shelving is dedicated to storage for member's personal it
 
 [![Main workshop storage](./images/ground_floor_workshop_storage.jpg)](./images/ground_floor_workshop_storage.jpg)
 
-todo
+Welcome to the vibrant hub of creativity within this dynamic hackspace: the breakfast bar.
+This inviting space is designed to foster collaboration and provide a comfortable spot for members to create and connect.
+
+The breakfast bar table is a sleek, modern fixture, crafted from high-quality materials that blend functionality with style.
+It's spacious surface offers ample room for enjoying a quick snack, tinkering on a project, or engaging in lively discussions about the latest projects and ideas.
+The bar stools, with their ergonomic design, ensure comfort during those longer brainstorming sessions.
+
+Strategically located within the hackspace, this area is bathed in natural light, creating a warm and welcoming atmosphere.
+The surrounding decor is thoughtfully curated to inspire creativity, with vibrant artwork and innovative designs adorning the walls.
+
+Whether you’re taking a break from a challenging project or simply looking to network with fellow makers, the breakfast bar table area is the perfect spot.
+
+Adjacent to the breakfast bar is the cutting-edge communication hub within the hackspace: the amateur radio setup.
+This area is meticulously designed for enthusiasts and hobbyists who are passionate about radio technology and communication.
+
+This amateur radio setup is more than just a collection of equipment; it's a gateway to a world of communication and exploration.
+Whether you're a seasoned operator or new to the hobby, this space is designed to inspire and support your passion for radio technology.
+
+Step into this exceptional amateur radio setup and experience the thrill of global communication right from the heart of our hackspace!
 
 [![Breakfast bar and radio PC areas](./images/ground_floor_workshop_breakfast_bar_and_radio.jpg)](./images/ground_floor_workshop_breakfast_bar_and_radio.jpg)
 
