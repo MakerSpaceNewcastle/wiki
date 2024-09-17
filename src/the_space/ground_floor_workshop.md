@@ -11,11 +11,11 @@ Whether you're assembling a PCB or making tote bags, there's a spot for your cre
 
 Our electronics workspaces, a place where wires tangle like ivy, components sprawl like fallen leaves, and soldering irons hum like caffeinated bees.
 
-The soldering stations wear battle scars. Burn marks, flux residue, and tangled solder wicks—they tell tales of countless connections forged.
+The soldering stations wear battle scars. Burn marks, flux residue, and tangled solder wicks - they tell tales of countless connections forged.
 The air smells of molten dreams and a hint of desperation.
 
 Dive in, untangle wires, and let sparks fly.
-Who knows? Your next invention might emerge from this delightful chaos
+Who knows? Your next invention might emerge from this delightful chaos.
 
 [![Soldering/electronics station](./images/ground_floor_workshop_soldering_station.jpg)](./images/ground_floor_workshop_soldering_station.jpg)
 
@@ -41,7 +41,7 @@ Nestled against the wall, our plush sofa beckons.
 Sink into its embrace - a refuge for tired hackers and dreamers alike.
 Whether you're pondering the next steps for your current project or just need a power nap, this sofa cradles your thoughts.
 
-Open the fridge, and you’ll find a treasure trove: cold brews, artisanal sodas, and perhaps a rogue slice of leftover pizza.
+Open the fridge, and you'll find a treasure trove: cold brews, artisanal sodas, and perhaps a rogue slice of leftover pizza.
 It’s like Narnia, but with more caffeine.
 But please note some items belong to members or cost money if you'd like to consume them.
 
