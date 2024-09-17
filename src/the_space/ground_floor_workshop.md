@@ -50,7 +50,10 @@ Dusty hardcovers, dog-eared paperbacks, and a few mysterious tomes - they’re a
 
 [![Tea/coffee, fridge and lounge area](./images/ground_floor_workshop_tea_station.jpg)](./images/ground_floor_workshop_tea_station.jpg)
 
-todo
+The storage wall is a vast expanse of shelving, stretching from floor to ceiling, each unit brimming with a variety of tools, components, and materials.
+Every inch is utilized to its fullest potential, packed full of tools, parts and materials just waiting for the right project to come along.
+
+The south side of this shelving is dedicated to storage for member's personal items.
 
 [![Main workshop storage](./images/ground_floor_workshop_storage.jpg)](./images/ground_floor_workshop_storage.jpg)
 
@@ -58,8 +61,18 @@ todo
 
 [![Breakfast bar and radio PC areas](./images/ground_floor_workshop_breakfast_bar_and_radio.jpg)](./images/ground_floor_workshop_breakfast_bar_and_radio.jpg)
 
-todo
+Here we have our 3D printing station.
+This area is a dream come true for any maker, featuring top-of-the-line equipment that promises precision and reliability.
+
+To the left, you’ll find the renowned Prusa MK3.
+Its user-friendly interface and reliable performance make it an indispensable tool for both beginners and seasoned professionals.
+
+Complementing the Prusa MK3 is the cutting-edge Bambu Lab P1S.
+This advanced 3D printer is celebrated for its speed and versatility, capable of producing high-quality prints in a fraction of the time.
+With its sleek design and state-of-the-art features, the Bambu Lab P1S is perfect for those looking to push the boundaries of their creativity.
+
+The 3D printing station is thoughtfully arranged to maximize efficiency and inspire innovation.
+Each printer is strategically positioned to allow for seamless workflow, with ample workspace for preparing and finishing prints.
+The station is well-lit and equipped with all the necessary tools and materials, ensuring that every project can be executed to perfection.
 
 [![3D printer station](./images/ground_floor_workshop_3d_printers.jpg)](./images/ground_floor_workshop_3d_printers.jpg)
-
-todo
