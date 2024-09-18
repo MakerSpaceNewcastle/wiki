@@ -23,7 +23,7 @@ Alongside the lathe, you'll find an array of essential metalworking tools, inclu
 Against the rear wall, you will find yet another of our storage areas.
 These sturdy storage shelves, strategically placed against the wall, are designed to keep your tools and materials neatly arranged and easily accessible.
 
-[![Metal lathe and storage](./images/north_basement_workshop_parts_wall_and_metal_storage.jpg)](./images/north_basement_workshop_parts_wall_and_metal_storage.jpg)
+[![Metal lathe and storage](./images/north_basement_workshop_metal_tools_and_storage.jpg)](./images/north_basement_workshop_metal_tools_and_storage.jpg)
 
 Against the adjoining wall you will discover the metal stock storage.
 This dedicated space is designed to cater to the needs of metalworking enthusiasts, ensuring that all materials are stored efficiently and safely.
@@ -35,4 +35,4 @@ At the center of this dynamic space stands a robust and versatile workbench, des
 This workbench is built to withstand the rigors of heavy-duty metalworking, featuring a solid frame and a thick, durable work surface.
 Equipped with a high-quality vice, the workbench ensures secure clamping of materials, allowing for precise and stable work.
 
-[![Metal storage](./images/north_basement_workshop_metal_tools_and_storage.jpg)](./images/north_basement_workshop_metal_tools_and_storage.jpg)
+[![Metal storage](./images/north_basement_workshop_parts_wall_and_metal_storage.jpg)](./images/north_basement_workshop_parts_wall_and_metal_storage.jpg)
