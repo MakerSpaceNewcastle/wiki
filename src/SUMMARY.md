@@ -12,6 +12,7 @@
     - [Bambu Lab P1S](./equipment/bambulab_p1s/README.md)
         - [User Guide](./equipment/bambulab_p1s/user_guide.md)
     - [Prusa MK3](./equipment/prusa_mk3/README.md)
+    - [Axminster Bandsaw](./equipment/axminster_bandsaw/README.md)
 - [Governance](./governance/README.md)
     - [Induction](./governance/induction/README.md)
         - [Introduction](./governance/induction/introduction.md)
