@@ -41,8 +41,8 @@ jobs:
           accountId: 03654dab23842c712e474f409d58f55c
           command: pages deploy out --project-name=makerspace-wiki
 
-      - name: Add preview comment to Pull Request
-        if: ${{ secrets.CLOUDFLARE_API_TOKEN != '' }}
+      - name: Add preview URL comment
+        if: ${{ steps.publish.conclusion == 'success' }}
         uses: actions/github-script@v7
         with:
           script: |
@@ -51,4 +51,16 @@ jobs:
               owner: context.repo.owner,
               repo: context.repo.repo,
               body: '✨ you may preview these changes at <${{ steps.publish.outputs.deployment-url }}>'
+            })
+
+      - name: Add no preview explanation comment
+        if: ${{ steps.publish.conclusion == 'skipped' }}
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: 'No preview for you because you created this PR from a fork!'
             })
