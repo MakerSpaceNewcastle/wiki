@@ -12,7 +12,7 @@ It is also not that ideal for surface mount, as the components can end up heat d
 
 - Location: Ground Floor Workshop
 - Responsible Person(s): Jon Davies
-- Induction Required: Yes?
+- Induction Required: No
 
 ## How to use the tool
 
