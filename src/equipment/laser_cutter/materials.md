@@ -30,8 +30,8 @@ If you want to cut a material which is not on the allowed list you must contact 
 
 Woods:
 
-- Laser grade MDF (max 8mm)
-- Laser grade plywood
+- Laser-grade MDF (max 8mm)
+- Laser-grade plywood
     - Birch ply (max 9mm)
     - Poplar ply (max 9mm)
 - Balsa wood
