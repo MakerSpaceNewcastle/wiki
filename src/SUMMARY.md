@@ -13,6 +13,7 @@
         - [User Guide](./equipment/bambulab_p1s/user_guide.md)
     - [Prusa MK3](./equipment/prusa_mk3/README.md)
     - [Axminster Bandsaw](./equipment/axminster_bandsaw/README.md)
+    - [Record Power Belt and Disc Sander](./equipment/record_power_belt_and_disc_sander/README.md)
 - [Governance](./governance/README.md)
     - [Induction](./governance/induction/README.md)
         - [Introduction](./governance/induction/introduction.md)
