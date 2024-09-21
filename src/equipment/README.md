@@ -2,7 +2,18 @@
 
 Here you will find an overview of the equipment available at Maker Space.
 
-This is a list of the significant items, there are a lot of smaller/hand tools that are around.
+Larger, more complex or more significant items are listed, by area, below.
+A more complete, yet with less information, list of things we have can be found [here](./abridged_list.md).
+
+## Access controlled equipmnet
+
+Certain items in the space are fitted with RFID access controllers.
+These ensure that only members who are sure of their own competence in using a specific piece of equipment can use them.
+
+TODO: add link to access controller docs
+
+In order to gain access to a piece of equipment, a responsible person for that machine will have to verify that you are sure of how to operate the equipment safely.
+More information about the skills and knowledge you will be required to demonstrate can be found on the page for that machine.
 
 ## [Ground Floor Corridor](../the_space/ground_floor_corridor.md)
 

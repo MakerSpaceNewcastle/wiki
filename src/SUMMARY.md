@@ -8,6 +8,7 @@
     - [South Basement Workshop](./the_space/south_basement_workshop.md)
     - [North Basement Workshop](./the_space/north_basement_workshop.md)
 - [Equipment](./equipment/README.md)
+    - [Abridged List](./equipment/abridged_list.md)
     - [Laser Cutter](./equipment/laser_cutter/README.md)
     - [Bambu Lab P1S](./equipment/bambulab_p1s/README.md)
         - [User Guide](./equipment/bambulab_p1s/user_guide.md)
