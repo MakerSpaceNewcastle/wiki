@@ -12,6 +12,7 @@ This is a list of the significant items, there are a lot of smaller/hand tools t
 
 - [Bambu Lab P1S](./bambulab_p1s/)
 - [Prusa MK3](./prusa_mk3/)
+- [Desolder Station](./duratool_desolder_station/)
 
 ## [South Basement Workshop](../the_space/south_basement_workshop.md)
 
