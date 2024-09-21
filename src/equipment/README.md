@@ -16,7 +16,7 @@ This is a list of the significant items, there are a lot of smaller/hand tools t
 ## [South Basement Workshop](../the_space/south_basement_workshop.md)
 
 - CNC Mill
-- Axminster Bandsaw
+- [Axminster Bandsaw](./axminster_bandsaw/)
 - Belt/Disc Sander
 - Chop Saw
 
