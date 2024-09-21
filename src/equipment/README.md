@@ -17,6 +17,7 @@ This is a list of the significant items, there are a lot of smaller/hand tools t
 
 - CNC Mill
 - [Axminster Bandsaw](./axminster_bandsaw/)
+- [Record Power Drill Press](./record_power_drill_press/)
 - [Record Power Belt & Disc Sander](./record_power_belt_and_disc_sander/)
 - Chop Saw
 
