@@ -15,6 +15,7 @@
     - [Axminster Bandsaw](./equipment/axminster_bandsaw/README.md)
     - [Record Power Drill Press](./equipment/record_power_drill_press/README.md)
     - [Record Power Belt and Disc Sander](./equipment/record_power_belt_and_disc_sander/README.md)
+    - [Metal Lathe](./equipment/metal_lathe/README.md)
 - [Governance](./governance/README.md)
     - [Induction](./governance/induction/README.md)
         - [Introduction](./governance/induction/introduction.md)

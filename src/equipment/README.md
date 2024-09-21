@@ -25,5 +25,5 @@ This is a list of the significant items, there are a lot of smaller/hand tools t
 
 - Workbee CNC Router
 - Air Compressor
-- Metal Lathe
+- [Metal Lathe](./metal_lathe/)
 - Bench Grinder
