@@ -1,6 +1,6 @@
 # Laser suitable materials
 
-Materials that can be cut/engraved from the [London Hack Space wiki](https://wiki.london.hackspace.org.uk/view/Silvertail_A0_Laser_Cutter#Allowed).
+Materials that can be cut/engraved (largely taken from the [London Hack Space wiki](https://wiki.london.hackspace.org.uk/view/Silvertail_A0_Laser_Cutter#Allowed)).
 
 If you want to cut a material which is not on the allowed list you must contact the maintainers through the members email list to ask permission.
 
