@@ -12,6 +12,7 @@
     - [Bambu Lab P1S](./equipment/bambulab_p1s/README.md)
         - [User Guide](./equipment/bambulab_p1s/user_guide.md)
     - [Prusa MK3](./equipment/prusa_mk3/README.md)
+    - [Desolder Station](./equipment/duratool_desolder_station/README.md)
     - [Axminster Bandsaw](./equipment/axminster_bandsaw/README.md)
     - [Record Power Drill Press](./equipment/record_power_drill_press/README.md)
     - [Record Power Belt and Disc Sander](./equipment/record_power_belt_and_disc_sander/README.md)
