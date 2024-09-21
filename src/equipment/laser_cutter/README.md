@@ -14,3 +14,5 @@ It cuts stuff using a laser.
 ## Usage notes
 
 > **It is not permitted under any circumstances to leave this machine running unattended!**
+
+A list of compatible materials can be found [here](./materials.md).
