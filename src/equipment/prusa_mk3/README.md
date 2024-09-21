@@ -1,6 +1,6 @@
 # Prusa MK3
 
-[<img class="right" src="./images/overview.jpg" alt="Prusa MK3 overview" width="40%">](./images/overview.jpg)
+[<img class="equipment-thumbnail" src="./images/overview.jpg" alt="Prusa MK3 overview">](./images/overview.jpg)
 
 A sort of OK FDM 3D printer.
 

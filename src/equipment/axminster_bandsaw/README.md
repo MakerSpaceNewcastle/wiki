@@ -1,6 +1,6 @@
 # Axminster Bandsaw
 
-[<img class="right" src="./images/overview.jpg" alt="Bandsaw overview" width="40%">](./images/overview.jpg)
+[<img class="equipment-thumbnail" src="./images/overview.jpg" alt="Bandsaw overview">](./images/overview.jpg)
 
 An Axminster SBW4300B bandsaw.
 
