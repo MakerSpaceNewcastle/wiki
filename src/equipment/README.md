@@ -5,7 +5,11 @@ Here you will find an overview of the equipment available at Maker Space.
 Larger, more complex or more significant items are listed, by area, below.
 A more complete, yet with less information, list of things we have can be found [here](./abridged_list.md).
 
-## Access controlled equipmnet
+Equipment is typically listed with a list of responsible person(s).
+These people are who you should seek advice of with regards to induction requests, reporting faults and discussing alteration/upgrades.
+Do not attempt to modify or repair a piece of equipment without prior discussion/approval/understanding of the people responsible for the equipment in question.
+
+## Access controlled equipment
 
 Certain items in the space are fitted with RFID access controllers.
 These ensure that only members who are sure of their own competence in using a specific piece of equipment can use them.
