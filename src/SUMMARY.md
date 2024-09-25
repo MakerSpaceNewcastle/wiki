@@ -27,6 +27,7 @@
         - [Main Workshop](./governance/induction/workshop.md)
         - [Basement](./governance/induction/basement.md)
     - [Keyholder Induction](./governance/keyholder_induction/README.md)
+    - [Grievance Procedure](./governance/grievance_procedure/README.md)
 - [Wiki Guide](./wiki_guide/README.md)
     - [Style Guide](./wiki_guide/style_guide.md)
     - [Contributing](./wiki_guide/contributing.md)
