@@ -11,6 +11,7 @@
     - [Abridged List](./equipment/abridged_list.md)
     - [Laser Cutter](./equipment/laser_cutter/README.md)
         - [Materials](./equipment/laser_cutter/materials.md)
+        - [Settings](./equipment/laser_cutter/settings.md)
     - [Bambu Lab P1S](./equipment/bambulab_p1s/README.md)
         - [User Guide](./equipment/bambulab_p1s/user_guide.md)
     - [Prusa MK3](./equipment/prusa_mk3/README.md)
