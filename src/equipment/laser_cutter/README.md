@@ -16,3 +16,6 @@ It cuts stuff using a laser.
 > **It is not permitted under any circumstances to leave this machine running unattended!**
 
 A list of compatible materials can be found [here](./materials.md).
+
+> **Note:** both the safety/accessory control system and cooling system are currently being worked on (I know, top notch planning, right?).
+> As such, please avoid doing very long (>20 minute) jobs without asking about how to reasonably do this first.
