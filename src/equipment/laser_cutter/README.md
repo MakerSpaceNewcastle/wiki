@@ -1,4 +1,4 @@
-# Laser Cutter
+# Laser Cutter (Hoshiguma)
 
 [<img class="equipment-thumbnail" src="./images/overview.jpg" alt="Laser cutter overview">](./images/overview.jpg)
 
