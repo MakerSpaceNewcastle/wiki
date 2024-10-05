@@ -1,3 +1,3 @@
 # Governance
 
-This section describes how Maker Space operates.
+This section describes how Maker Space is managed.
