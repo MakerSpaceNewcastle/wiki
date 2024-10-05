@@ -28,6 +28,7 @@
     - [Large Air Compressor](./equipment/large_air_compressor/README.md)
 - [Operational](./operational/README.md)
     - [Waste Streams](./operational/waste_streams.md)
+- [Infrastructure](./infrastructure/README.md)
 - [Governance](./governance/README.md)
     - [Induction](./governance/induction/README.md)
         - [Introduction](./governance/induction/introduction.md)
