@@ -20,6 +20,7 @@
     - [Axminster Bandsaw](./equipment/axminster_bandsaw/README.md)
     - [Record Power Drill Press](./equipment/record_power_drill_press/README.md)
     - [Record Power Belt and Disc Sander](./equipment/record_power_belt_and_disc_sander/README.md)
+    - [Workbee CNC Router](./equipment/workbee_cnc_router/README.md)
     - [Metal Lathe](./equipment/metal_lathe/README.md)
 - [Operational](./operational/README.md)
     - [Waste Streams](./operational/waste_streams.md)
