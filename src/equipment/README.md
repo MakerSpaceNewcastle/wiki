@@ -39,7 +39,7 @@ More information about the skills and knowledge you will be required to demonstr
 
 ## [North Basement Workshop](../the_space/north_basement_workshop.md)
 
-- Workbee CNC Router
+- [Workbee CNC Router](./workbee_cnc_router/)
 - Air Compressor
 - [Metal Lathe](./metal_lathe/)
 - Bench Grinder
