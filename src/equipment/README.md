@@ -11,10 +11,8 @@ Do not attempt to modify or repair a piece of equipment without prior discussion
 
 ## Access controlled equipment
 
-Certain items in the space are fitted with RFID access controllers.
+Certain items in the space are fitted with [RFID access controllers](../infrastructure/rfid_access_controllers/).
 These ensure that only members who are sure of their own competence in using a specific piece of equipment can use them.
-
-TODO: add link to access controller docs
 
 In order to gain access to a piece of equipment, a responsible person for that machine will have to verify that you are sure of how to operate the equipment safely.
 More information about the skills and knowledge you will be required to demonstrate can be found on the page for that machine.

@@ -1,8 +1,12 @@
-# Wiki Guide
+# Wiki
 
 This section describes a little about the wiki, how to use it and how to write content for it.
 
 The wiki uses [mdBook](https://github.com/rust-lang/mdBook), the content is hosted on [GitHub](https://github.com/MakerSpaceNewcastle/wiki) and the site is hosted on [Cloudflare Pages](https://pages.cloudflare.com/).
+
+## Essential Information
+
+- Responsible Person(s): Dan Nixon
 
 ## Contributing content
 
