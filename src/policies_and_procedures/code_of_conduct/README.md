@@ -1,4 +1,4 @@
-# Safe Space Policy
+# Code of Conduct
 
 We expect all members, guests and attendees of events to abide by the following policy at  Maker Space and all its online meeting places.
 
