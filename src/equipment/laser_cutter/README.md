@@ -20,3 +20,7 @@ A list of known good settings is [here](./settings.md).
 
 > **Note:** both the safety/accessory control system and cooling system are currently being worked on (I know, top notch planning, right?).
 > As such, please avoid doing very long (>20 minute) jobs without asking about how to reasonably do this first.
+
+To the right of the machine on the small table (under the laptop shelf) is a waste bin for scraps that are no longer wanted but still potentially useful.
+To the left of the machine on the floor is a bin for waste wood scraps that are not feasibly useful any longer.
+See [waste streams](../../operational/waste_streams.md) for more details.
