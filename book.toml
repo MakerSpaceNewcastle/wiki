@@ -15,3 +15,6 @@ create-missing = false
 git-repository-url = "https://github.com/MakerSpaceNewcastle/wiki"
 edit-url-template = "https://github.com/MakerSpaceNewcastle/wiki/edit/main/{path}"
 fold.enable = true
+
+[output.linkcheck]
+warning-policy = "error"
