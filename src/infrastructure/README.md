@@ -4,7 +4,7 @@ The things that make Maker Space usable.
 
 - Networking
 - [RFID access controllers](./rfid_access_controllers/)
-- Hot water dispenser
+- [Hot water dispenser](./bosch_tassimo_machine/)
 - [DeLonghi Magnifica coffee machine](./delonghi_coffee_machine/)
 - Vending machine
 - Air filters
