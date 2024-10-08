@@ -31,6 +31,7 @@
 - [Infrastructure](./infrastructure/README.md)
     - [RFID Access Controllers](./infrastructure/rfid_access_controllers/README.md)
     - [Music Server](./infrastructure/music_server/README.md)
+    - [DeLonghi Coffee Machine](./infrastructure/delonghi_coffee_machine/README.md)
     - [Wiki](./infrastructure/wiki/README.md)
         - [Style Guide](./infrastructure/wiki/style_guide.md)
         - [Contributing](./infrastructure/wiki/contributing.md)
