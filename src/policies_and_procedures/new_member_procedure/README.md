@@ -36,5 +36,5 @@ The induction can be found [here](../induction/README.md)
 ## 6. RFID Key Fobs
 
 Once the applicant has become a member, an RFID Key Fob (if available) may be registered to the new member.
->- Key fobs are available for a small donation. If the new member has a suitable key fob, this may be used.
->- See the [Access Control] page for more details.
+>- Key fobs are available for a small donation but if the new member has a suitable key fob, this may be used.
+>- See the [Access Control](../../infrastructure/rfid_access_controllers/README.md) page for more details.
