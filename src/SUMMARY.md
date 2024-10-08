@@ -36,6 +36,7 @@
         - [Style Guide](./infrastructure/wiki/style_guide.md)
         - [Contributing](./infrastructure/wiki/contributing.md)
 - [Governance](./governance/README.md)
+    - [New Member Procedure](./governance/new_member_procedure/README.md)
     - [Induction](./governance/induction/README.md)
         - [Introduction](./governance/induction/introduction.md)
         - [Using the space](./governance/induction/using_the_space.md)
