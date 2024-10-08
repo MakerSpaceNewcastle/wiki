@@ -44,5 +44,5 @@
         - [Main Workshop](./policies_and_procedures/induction/workshop.md)
         - [Basement](./policies_and_procedures/induction/basement.md)
     - [Keyholder Induction](./policies_and_procedures/keyholder_induction/README.md)
-    - [Safe Space Policy](./policies_and_procedures/safe_space_policy/README.md)
+    - [Code of Conduct](./policies_and_procedures/code_of_conduct/README.md)
     - [Grievance Procedure](./policies_and_procedures/grievance_procedure/README.md)
