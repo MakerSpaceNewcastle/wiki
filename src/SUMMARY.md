@@ -44,6 +44,8 @@
         - [Entrance Lobby](./policies_and_procedures/induction/entrance_lobby.md)
         - [Main Workshop](./policies_and_procedures/induction/workshop.md)
         - [Basement](./policies_and_procedures/induction/basement.md)
+    - [Keyholder Policy](./policies_and_procedures/keyholder_policy/README.md)
+    - [Keyholder Proposal Procedure](./policies_and_procedures/keyholder_proposal/README.md)
     - [Keyholder Induction](./policies_and_procedures/keyholder_induction/README.md)
     - [Code of Conduct](./policies_and_procedures/code_of_conduct/README.md)
     - [Grievance Procedure](./policies_and_procedures/grievance_procedure/README.md)
