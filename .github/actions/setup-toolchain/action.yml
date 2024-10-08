@@ -13,9 +13,25 @@ runs:
         version="v0.4.40"
 
         cd /tmp
-        archive="mdbook-v0.4.40-x86_64-unknown-linux-gnu.tar.gz"
-        wget "https://github.com/rust-lang/mdBook/releases/download/v0.4.40/${archive}"
+        archive="mdbook-${version}-x86_64-unknown-linux-gnu.tar.gz"
+        wget "https://github.com/rust-lang/mdBook/releases/download/${version}/${archive}"
         tar xzvf "${archive}"
         sudo mv mdbook /usr/bin
 
         mdbook --version
+
+    - name: Download mdbook-linkcheck
+      shell: bash
+      run: |
+        set +x
+
+        version="v0.7.7"
+
+        cd /tmp
+        archive="mdbook-linkcheck.x86_64-unknown-linux-gnu.zip"
+        wget "https://github.com/Michael-F-Bryan/mdbook-linkcheck/releases/download/${version}/${archive}"
+        unzip "${archive}"
+        chmod +x mdbook-linkcheck
+        sudo mv mdbook-linkcheck /usr/bin
+
+        mdbook-linkcheck --version

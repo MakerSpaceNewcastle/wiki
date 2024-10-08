@@ -27,4 +27,4 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: 03654dab23842c712e474f409d58f55c
-          command: pages deploy out --project-name=makerspace-wiki
+          command: pages deploy ./out/html --project-name=makerspace-wiki
