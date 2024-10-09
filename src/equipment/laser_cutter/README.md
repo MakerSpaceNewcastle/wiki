@@ -27,4 +27,4 @@ If you have machined anything particularly smelly, as a courtesy to other member
 
 To the right of the machine on the small table (under the laptop shelf) is a waste bin for scraps that are no longer wanted but still potentially useful.
 To the left of the machine on the floor is a bin for waste wood scraps that are not feasibly useful any longer.
-See [waste streams](../../operational/waste_streams.md) for more details.
+See [waste streams](../../using_the_space/waste_streams.md) for more details.
