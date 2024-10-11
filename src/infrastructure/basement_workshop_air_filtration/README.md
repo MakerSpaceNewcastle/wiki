@@ -1,4 +1,4 @@
-# Air Filtration
+# Basement Workshop Air Filtration
 
 Both the north and south basement workshops have Axminster air particle filters.
 These are suitable for removing the worst of suspended dust from the air.
