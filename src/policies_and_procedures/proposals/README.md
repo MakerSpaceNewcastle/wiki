@@ -24,6 +24,11 @@ There will also be an approved list of things such as toilet rolls and tea bags 
 ## Proposals for larger changes
 
 Any Member can propose something on the Maker Space Members mailing list.
-If there are less than three objections within 1 week (eg tuesday to tuesday) if there are three objections or more, it will go to a board meeting to be decided.
+
+If there are less than three objections within 1 week, the proposal will pass.
+
+If there are three objections or more, it will go to a board meeting to be decided.
+
 Any member can submit items to the agenda of a board meeting for the board members to consider.
+
 The board may veto any decision for the good of the space.
