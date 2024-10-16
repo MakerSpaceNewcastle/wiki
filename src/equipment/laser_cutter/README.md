@@ -28,3 +28,29 @@ If you have machined anything particularly smelly, as a courtesy to other member
 To the right of the machine on the small table (under the laptop shelf) is a waste bin for scraps that are no longer wanted but still potentially useful.
 To the left of the machine on the floor is a bin for waste wood scraps that are not feasibly useful any longer.
 See [waste streams](../../using_the_space/waste_streams.md) for more details.
+
+## Induction checklist
+
+- Turning on machine with fob, requirement for empty bed, emergency stop
+- Panel controls
+    - X/Y/Z axis motion
+    - motion mode (central d-pad button)
+    - pause/resume
+    - stop
+    - pulse
+    - escape
+    - fume extraction mode
+- Note the fact that no other panel controls should be required under normal operation
+- General laptop use, mention that personal laptops can be used and LightBurn discount available
+- LightBurn
+    - loading files
+    - assigning layers
+    - setting layer mode, speed, power, etc.
+    - layer order
+    - preview
+    - origin selection/settings
+    - frame
+- Workpiece alignment and focusing
+- Start/during/end of job processes, the requirement to attend the machine
+- Turning off machine and laptop
+- Available materials and waste streams in vicinity of machine
