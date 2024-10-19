@@ -27,7 +27,7 @@ Membership Payments should be verified before the Applicant becomes a member.
 New members must receive an induction to cover the basic safety points, policies and expectations of the space.
 Inductions should be given on a voluntary basis and could be given by any member who has already been inducted.
 
-The induction can be found [here](../induction/README.md)
+The induction can be found [here](../induction/)
 
 >- Inductions should ideally be arranged in advance.
 >- The keyholder for the session should not be obliged to give an induction.
