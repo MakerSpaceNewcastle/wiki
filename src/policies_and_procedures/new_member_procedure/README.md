@@ -27,7 +27,7 @@ Membership Payments should be verified before the Applicant becomes a member.
 New members must receive an induction to cover the basic safety points, policies and expectations of the space.
 Inductions should be given on a voluntary basis and could be given by any member who has already been inducted.
 
-The induction can be found [here](../induction/README.md)
+The induction can be found [here](../induction/)
 
 >- Inductions should ideally be arranged in advance.
 >- The keyholder for the session should not be obliged to give an induction.
@@ -37,4 +37,4 @@ The induction can be found [here](../induction/README.md)
 
 Once the applicant has become a member, an RFID Key Fob (if available) may be registered to the new member.
 >- Key fobs are available for a small donation but if the new member has a suitable key fob, this may be used.
->- See the [Access Control](../../infrastructure/rfid_access_controllers/README.md) page for more details.
+>- See the [Access Control](../../infrastructure/rfid_access_controllers/) page for more details.
