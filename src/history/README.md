@@ -2,10 +2,10 @@
 
 Maker Space was founded in 2011 by Alistair and Brian.  Approximately 10 people turned up to the first Welcome Wednesday  on 20th July 2011.
 
+## Maker Space Version History
+
 Below is a list of the premises Maker Space has used had over the years.
 All of which, except from the current one, have since been domolished.
-
-## Maker Space Version History
 
 |Version|From Date|Location|Floorspace (m<sup>2</sup>)|Description|
 |---|---|---|---|--|
