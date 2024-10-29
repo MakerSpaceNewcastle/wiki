@@ -53,3 +53,4 @@
     - [Keyholder Induction](./policies_and_procedures/keyholder_induction/README.md)
     - [Code of Conduct](./policies_and_procedures/code_of_conduct/README.md)
     - [Grievance Procedure](./policies_and_procedures/grievance_procedure/README.md)
+- [History of Maker Space](./history/README.md)
