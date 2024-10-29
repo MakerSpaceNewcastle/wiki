@@ -54,3 +54,4 @@ See [waste streams](../../using_the_space/waste_streams.md) for more details.
 - Start/during/end of job processes, the requirement to attend the machine
 - Turning off machine and laptop
 - Available materials and waste streams in vicinity of machine
+- Use of the vacuum cleaner to tidy the machine after use
