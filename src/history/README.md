@@ -10,8 +10,8 @@ All of which, excuding the current one, have since been domolished.
 |Version|From Date|Location|Floorspace (m<sup>2</sup>)|Description|
 |---|---|---|---|--|
 |1.0|July 2011|The Cottage,<br>Star and Shadow,<br>Coquet Street|25|Our first home!<br>A small office at the back of a cinema.|
-|2.0|1st June 2013|New Bridge St. West|100|Our first proper space in the centre of Newcastle with large shop windows to fill with fun stuff|
-|2.9|2017|4th Floor,<br>Commercial Union House<br>Pilgrim Street|50|A small temporary space in CU house with a lot of our stuff in storage.|
-|3.0||Basement,<br>Commercial Union House<br>Pilgrim Street|150?|Two areas of basement that had previously been used as stores for archive documents and alcohol.|
+|2.0|1st June 2013|New Bridge St. West|100|Our first proper space in the centre of Newcastle with large shop windows to fill with fun stuff.|
+|2.9|2017|4th Floor,<br>Commercial Union House,<br>Pilgrim Street|50|A small temporary space in CU house with a lot of our stuff in storage.|
+|3.0||Basement,<br>Commercial Union House,<br>Pilgrim Street|150?|Two areas of basement that had previously been used asa document archive and an alcohol store.|
 |4.0|Sep 2021 (storage only)<br>Re-opened November 2022|65 High Street,<br>Gateshead|150?|Ground floor and basement space in a building that was originally a pub.|
 
