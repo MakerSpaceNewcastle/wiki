@@ -27,7 +27,7 @@ All of which, excuding the current one, have since been domolished.
 
 |Version|From Date|Location|Floorspace (m<sup>2</sup>)|Description|
 |---|---|---|---|--|
-|MS1|July 2011|The Cottage,<br>Star and Shadow,<br>1 Coquet Street|25|Our first home!<br>A small office at the back of a cinema.|
+|MS1|20th July 2011|The Cottage,<br>Star and Shadow,<br>1 Coquet Street|25|Our first home!<br>A small office at the back of a cinema.|
 |MS2|1st June 2013|18 New Bridge St. West|91|Our first proper space in the centre of Newcastle with large shop windows to fill with fun stuff.|
 |MS2.5|21st April 2017|4th Floor,<br>Commercial Union House,<br>Pilgrim Street|45|A small temporary space in CU house with a lot of our stuff in storage.|
 |MS3|24th July 2017|Basement,<br>Commercial Union House,<br>Pilgrim Street|103|An area of basement that had previously been used as a document archive .|
