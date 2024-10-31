@@ -54,3 +54,6 @@
     - [Code of Conduct](./policies_and_procedures/code_of_conduct/README.md)
     - [Grievance Procedure](./policies_and_procedures/grievance_procedure/README.md)
 - [History of Maker Space](./history/README.md)
+    - [Maker Space 1](./history/ms1/README.md)
+    - [Maker Space 2](./history/ms2/README.md)
+    - [Maker Space 3](./history/ms3/README.md)
