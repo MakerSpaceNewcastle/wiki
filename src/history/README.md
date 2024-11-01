@@ -26,9 +26,9 @@ All of which, excuding the current one, have since been domolished.
 
 |Version|From Date|Location|Floorspace (m<sup>2</sup>)|Description|
 |---|---|---|---|--|
-|[MS1](./ms1/)|20th July 2011|The Cottage,<br>Star and Shadow,<br>1 Coquet Street|25|Our first home!<br>A small office at the back of a cinema.|
-|[MS2](./ms2/)|1st June 2013|18 New Bridge St. West|91|Our first proper space in the centre of Newcastle with large shop windows to fill with fun stuff.|
-|[MS2.5](./ms3/)|21st April 2017|4th Floor,<br>Commercial Union House,<br>Pilgrim Street|45|A small temporary space in CU house with a lot of our stuff in storage.|
-|[MS3](./ms3/)|24th July 2017|Basement,<br>Commercial Union House,<br>Pilgrim Street|103|An area of basement that had previously been used as a document archive .|
-|[MS3](./ms3/)|13th September 2019|Basement,<br>Commercial Union House,<br>Pilgrim Street|166|Expanded into another area of basement that had previously been used as an alcohol store, known as the zombie cage.|
-|[MS4](../the_space/)|4th September 2021 (storage only)<br>Re-opened November 2022|65 High Street,<br>Gateshead|200|Ground floor and basement space in a building that was originally a pub.|
+|[MS1](./ms1/)|2011-07-20|The Cottage,<br>Star and Shadow,<br>1 Coquet Street|25|Our first home!<br>A small office at the back of a cinema.|
+|[MS2](./ms2/)|2013-06-01|18 New Bridge St. West|91|Our first proper space in the centre of Newcastle with large shop windows to fill with fun stuff.|
+|[MS2.5](./ms3/)|2017-04-21|4th Floor,<br>Commercial Union House,<br>Pilgrim Street|45|A small temporary space in CU house with a lot of our stuff in storage.|
+|[MS3](./ms3/)|2017-07-24|Basement,<br>Commercial Union House,<br>Pilgrim Street|103|An area of basement that had previously been used as a document archive.|
+|[MS3](./ms3/)|2019-09-13|Basement,<br>Commercial Union House,<br>Pilgrim Street|166|Expanded into another area of basement that had previously been used as an alcohol store, known as the zombie cage.|
+|[MS4](../the_space/)|2021-09-04(storage only)<br>Re-opened November 2022|65 High Street,<br>Gateshead|200|Ground floor and basement space in a building that was originally a pub.|

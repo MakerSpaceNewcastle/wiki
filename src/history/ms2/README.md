@@ -28,7 +28,7 @@ As the space was originally for retail, there were several large windows which w
 One of the windows was also used for displays, especially at Christmas and Halloween.
 
 The location helped greatly to improve awareness of the space and increase membership.
-This, in combination with the increased floorspace meant that we could start to acquire more equiment such as a [laser cutter](../../equipment/laser_cutter/).
+This, in combination with the increased floorspace meant that we could start to acquire more equiment such as a laser cutter.
 
 With more members, we started to open up for regular themed sessions on Thursday evenings.
 - 3D Thursday, on the 1st and 3rd Thursday og the month, for anything related to 3D printing.
