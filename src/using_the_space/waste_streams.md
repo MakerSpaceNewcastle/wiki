@@ -25,6 +25,13 @@ This is taken to a recycling centre and likely ends up in an incinerator.
 
 Use this for scraps that are likely to no longer be of use.
 
+### E-waste
+
+There is a box on the floor to the left of the laser cutter for e-waste.
+This is taken to a recycling centre and might be recycled to some extent, maybe.
+
+This may be used for small items of e-waste created in the space.
+
 ### PLA
 
 There is a red sweet box on the 3D printing station where scraps of PLA can be deposited and shipped away for recycling.
