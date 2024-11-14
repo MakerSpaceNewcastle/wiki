@@ -14,15 +14,6 @@
 - Please stack things carefully, especially high up.
 - Ask on mailing list about storing big things in space, before you bring it in.
 
- 
-
-### Chemicals
-- Any chemicals in the space should be clearly labelled whether hazardous or not.
-- Flammables box - Flammable stuff lives here, put it back after using.
-- No dangerous chemicals please.
-- No spray painting in the space - ventilation isn't adequate.
-- No flames/smoking
- 
 
 ### Wall o' boxes and other material around space
 - OK to use stuff, but please add stuff too - It's all provided by members and rather than the space.
