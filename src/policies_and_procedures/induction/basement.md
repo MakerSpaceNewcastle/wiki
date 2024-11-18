@@ -26,3 +26,11 @@
 - Nuts/Bolts/Screws - please keep tidy - use "M Don't Know" if you can't determine the size. 
 - Metal Store - to be used for projects etc.  Be careful of sharp edges, don't leave any for others.
 - Table legs may not be spare.  Please check before using.
+
+
+### Chemicals
+- Any chemicals in the space should be clearly labelled whether hazardous or not.
+- Flammables box - Flammable stuff lives here, put it back after using.
+- No dangerous chemicals please.
+- No spray painting in the space - ventilation isn't adequate.
+- No flames/smoking
