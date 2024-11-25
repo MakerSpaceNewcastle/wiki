@@ -55,5 +55,7 @@
     - [Grievance Procedure](./policies_and_procedures/grievance_procedure/README.md)
 - [History of Maker Space](./history/README.md)
     - [Maker Space 1](./history/ms1/README.md)
+        - [External](./history/ms1/external.md)
+        - [Internal](./history/ms1/internal.md)
     - [Maker Space 2](./history/ms2/README.md)
     - [Maker Space 3](./history/ms3/README.md)
