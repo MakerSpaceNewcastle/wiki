@@ -40,7 +40,7 @@
 1. Switch to the "Devices" tab  
    ![Bambu Studio devices tab with no printer added](./images/bambu_studio_empty_devices_tab.png)
 2. Click on "No printer" and select "3DP-01P-744" from the list
-3. When prompted enter the code from the printer menu as instructed  
+3. When prompted enter the code for the appropriate printer [listed here](.#essential-information) (or via the printer menu as instructed if that code did not work, make sure to update the wiki if you had to do this).
    ![Bambu Studio printer access code screen](./images/bambu_studio_access_code.png)
 4. The printer status should now be shown in the "Device" tab  
    ![Bambu Studio devices tab printer added](./images/bambu_studio_devices_tab.png)
@@ -48,8 +48,6 @@
 If you do not see the printer in the device list then most likely your machine is not properly configured to act as an SSDP client.
 See [Simple Service Discovery Protocol](https://en.wikipedia.org/wiki/Simple_Service_Discovery_Protocol) and [Printer Network Ports](https://wiki.bambulab.com/en/general/printer-network-ports) for more info.
 TL;DR: open UDP port 2021 on your machines firewall and try again.
-
-When getting the access code from the printer do not select the refresh icon next to the code.
 
 ## Loading, Unloading and Configuring Filament
 
@@ -72,21 +70,7 @@ You can tell if a filament is loaded into the printer either by:
 3. Wait 30 seconds or so for the filament to be identified
 4. Verify that the filament was correctly identified via the "Devices" tab in Bambu Studio
 
-#### Generic filament on card spools
-
-Filament on card spools should NOT be used directly in the AMS, the spool rollers chew up the card spools and make a mess of the AMS.
-
-A [shim](https://www.printables.com/model/251028-cardboard-spool-ring-for-bambu-lab-ams-parametric/) can be printed to protect the edges of the card spool.
-
-![Shims on a cardboard filament spool](./images/cardboard_spool_shims.jpg)
-
-Some cardboard spools, once clad with a printed shim, are too wide for the lid of the AMS to be closed without clamping the spool and preventing it from moving.
-In this case the clips on the AMS lid may be used to prop the lid slightly open as shown below.
-This should only be done when a filament is loaded into the AMS that would otherwise foul the AMS lid, prefer closing the lid when possible to take advantage of the humidity control offered by the AMS.
-
-![AMS propped open](./images/ams_propped_open.jpg)
-
-#### Generic filament
+#### Generic filament on Bambu Lab spools
 
 1. Place the spool in a free AMS slot
 2. Push the filament into the AMS feeder for the corresponding slot
@@ -96,6 +80,10 @@ This should only be done when a filament is loaded into the AMS that would other
    ![Bambu Studio filament settings dialog](./images/ams_filament_settings.png)
 5. The "Devices" tab should now show the filament type you specified  
    ![Bambu Studio AMS status showing configured filament](./images/ams_filament_configured.png)
+
+#### External filament caddy (Kirisame only)
+
+TODO
 
 ## Printing
 
@@ -134,7 +122,7 @@ This should only be done when a filament is loaded into the AMS that would other
 
 The micro SD card is used for storing print jobs, timelapse and camera recordings (amongst other things that are of little direct use to humans).
 
-It is not advised to use the SD card as a means of getting print jobs onto the machine.
+Do not use the SD card as a means of getting print jobs onto the machine.
 
 Removing the SD card is how you would get timelapses and camera recordings off the printer, however if you wish to do this then immediately return the card to the printer as removal of the card renders it inoperative.
 

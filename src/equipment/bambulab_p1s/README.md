@@ -2,14 +2,20 @@
 
 [<img class="equipment-thumbnail" src="./images/overview.jpg" alt="Bambu Lab P1S overview">](./images/overview.jpg)
 
-[Bambu Lab P1S](https://bambulab.com/en-gb/p1?product=p1s) with AMS and external spool caddy.
-A very good, quick FDM 3D printer.
+Two [Bambu Lab P1S](https://bambulab.com/en-gb/p1?product=p1s)es, Hakurei and Kirisame.
+Very good, fast FDM 3D printers.
 
 ## Essential Information
 
 - Location: Ground Floor Workshop
 - Responsible Person(s): Dan Nixon
 - Induction Required: No
+- Build volume: 256mm x 256mm x 256mm
+
+|Printer |Nozzle size|LAN access code|Filament Options|
+|--------|-----------|---------------|----------------|
+|Hakurei |0.4mm      |41459176       |AMS compatible spools only|
+|Kirisame|0.4mm      |29623040       |AMS compatible spools or up to 3 Kg spools via top spool caddy|
 
 ## Usage notes
 
