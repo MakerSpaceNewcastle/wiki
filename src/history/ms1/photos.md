@@ -6,9 +6,7 @@ The space was accessed from the door shown below on Coquet Street.  Our room was
 
 [![External photo with blossoming tree](./images/ms1_outside.JPG)](./images/ms1_outside.JPG)
 
-The building has since been demolished.  This was the state of MS1 in February 2021.
 
-[![Part-demolished MS1](./images/ms1_demolition.jpg)](./images/ms1_demolition.jpg)
 
 ## Internal
 
@@ -23,3 +21,9 @@ Here are some photos from inside the space.
 And a panorama!
 
 [![Panorama](./images/ms1_pano.JPG)](./images/ms1_pano.JPG)
+
+## Demolition
+
+The building has since been demolished.  This was the state of MS1 in February 2021.
+
+[![Part-demolished MS1](./images/ms1_demolition.jpg)](./images/ms1_demolition.jpg)

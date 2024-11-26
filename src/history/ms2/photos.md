@@ -48,7 +48,7 @@ MS2 had 2 entrances.  A front door with a disabled ramp on New Bridge Street Wes
 
 [![Wet Lab through fisheye lens](./images/ms2_wet_lab.JPG)](./images/ms2_wet_lab.JPG)
 
-### Demolition
+## Demolition
 
 [![Demolition](./images/ms2_demolition1.jpg)](./images/ms2_demolition1.jpg)
 
