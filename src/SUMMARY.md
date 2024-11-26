@@ -55,5 +55,8 @@
     - [Grievance Procedure](./policies_and_procedures/grievance_procedure/README.md)
 - [History of Maker Space](./history/README.md)
     - [Maker Space 1](./history/ms1/README.md)
+        - [MS1 Photos](./history/ms1/photos.md)
     - [Maker Space 2](./history/ms2/README.md)
+        - [MS2 Photos](./history/ms2/photos.md)
     - [Maker Space 3](./history/ms3/README.md)
+        - [MS3 Photos](./history/ms3/photos.md)
