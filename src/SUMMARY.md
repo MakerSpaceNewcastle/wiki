@@ -59,3 +59,4 @@
     - [Maker Space 2](./history/ms2/README.md)
         - [MS2 Photos](./history/ms2/photos.md)
     - [Maker Space 3](./history/ms3/README.md)
+        - [MS3 Photos](./history/ms3/photos.md)
