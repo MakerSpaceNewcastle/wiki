@@ -21,6 +21,8 @@ Very good, fast FDM 3D printers.
 
 > **It is not permitted to leave this (or any other) 3D printer running whilst Maker Space is unoccupied!**
 
+> **3D printer filemant supplied by Maker Space must be paid for. See [3D Printer Filament](../../using_the_space/3d_printer_filament.md) for details.**
+
 While no induction is required, it is very strongly recommended to read the [user guide](./user_guide.md) before using the printer.
 
 ## Useful links

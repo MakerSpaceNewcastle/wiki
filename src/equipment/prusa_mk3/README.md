@@ -9,12 +9,13 @@ A sort of OK FDM 3D printer.
 - Location: Ground Floor Workshop
 - Responsible Person(s): ?
 - Induction Required: No
+- Nozzle size: 0.4mm
 
 ## Usage notes
 
 > **It is not permitted to leave this (or any other) 3D printer running whilst Maker Space is unoccupied!**
 
-This printer is fitted with a standard 0.4mm nozzle.
+> **3D printer filemant supplied by Maker Space must be paid for. See [3D Printer Filament](../../using_the_space/3d_printer_filament.md) for details.**
 
 Octoprint is installed on a Raspberry Pi, which is capable of controlling and monitoring the printer over the network.
 The IP address to access the Octoprint interface is on a label on the front of the printer.
