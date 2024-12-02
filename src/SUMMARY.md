@@ -8,6 +8,7 @@
     - [South Basement Workshop](./the_space/south_basement_workshop.md)
     - [North Basement Workshop](./the_space/north_basement_workshop.md)
 - [Using the Space](./using_the_space/README.md)
+    - [3D Printer Filament](./using_the_space/3d_printer_filament.md)
     - [Hack or Die](./using_the_space/hack_or_die.md)
     - [Waste Streams](./using_the_space/waste_streams.md)
 - [Equipment](./equipment/README.md)
