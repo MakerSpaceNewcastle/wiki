@@ -26,5 +26,7 @@ The space has a small amount of 0.2mm nickel strip, some spot-weldable battery t
 ### Useful links
 
 [kWeld user manual - **PLEASE READ ME BEFORE USING DEVICE**](https://www.keenlab.de/wp-content/uploads/2018/07/kWeld-operation-manual-r3.0.pdf)
+
 [kCap user manual - for troubleshooting](https://www.keenlab.de/wp-content/uploads/2022/12/kCap-manual-r2.0.pdf)
+
 [kSupply user manual - for troubleshooting](https://www.keenlab.de/wp-content/uploads/2019/06/kSupply-manual.pdf)
