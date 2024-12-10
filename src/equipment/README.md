@@ -26,6 +26,7 @@ More information about the skills and knowledge you will be required to demonstr
 - [Bambu Lab P1S](./bambulab_p1s/)
 - [Prusa MK3](./prusa_mk3/)
 - [Desolder Station](./duratool_desolder_station/)
+- [kWeld Spot Welder](./kweld_spot_welder/)
 
 ## [South Basement Workshop](../the_space/south_basement_workshop.md)
 
