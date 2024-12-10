@@ -1,4 +1,4 @@
-# KWeld spot welder
+# kWeld spot welder
 
 The KWeld spot welder is ideal for welding up Lithium Ion Batteries (eg 18650) cells into battery packs.
 
