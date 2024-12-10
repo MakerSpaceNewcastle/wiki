@@ -31,6 +31,7 @@ There is a box on the floor to the left of the laser cutter for e-waste.
 This is taken to a recycling centre and might be recycled to some extent, maybe.
 
 This may be used for small items of e-waste created in the space.
+If you would otherwise throw stuff in general waste you may bring things in to be correctly disposed of if you are not able to take them to an appropriate recycling centre yourself (but do not take the piss).
 
 ### PLA
 
