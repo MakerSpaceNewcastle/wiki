@@ -19,14 +19,17 @@ Please use it when creating dust in the north workshop (e.g. when running the Wo
 
 ## South Workshop Filter
 
-The filter in the south workshop is not currently serviceable and not mounted in a suitable position.
+Currently the filter in the south basement workshop is serviceable.
+
+It is operated by presence in the basement and will turn off 5 minutes after the basement has been vacated (or everyone stops moving, for whatever reason...).
+
+Nothing needs to be done with the filter, it will just work.
 
 ## To Do
 
-- [ ] New control system, with:
+- New control system, with:
     - network remote control
     - automatic start/stop based on presence and/or air quality
-- [ ] Install new control system, in
-    - [ ] south workshop filter
-    - [ ] north workshop filter
-- [ ] Mount south workshop filter overhead in a suitable central location
+- Install new control system, in
+    - south workshop filter
+- Mount south workshop filter overhead in a suitable central location
