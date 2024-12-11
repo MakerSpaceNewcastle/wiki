@@ -11,9 +11,9 @@ It's a self-build machine using readily available parts like extruded aluminium 
 
 ## Specifications
 
-### Kit: Ooznest WorkBee Z1+.
+### Kit
 
-Consists of mechanical elements:
+Ooznest WorkBee Z1+, consisting of mechanical elements:
 
 - 1500x1500mm frame (Working Area: 1270x1270mm)
 - Router Mount - DeWalt - 69mm
@@ -27,15 +27,16 @@ Dewalt Router  D26200 Type 1 (2018)
 
 #### Speed selection
 
-(**DIAL SETTING**)(**APPROX. RPM**)
-(Large diameter cutters.)
-(1)(16000)
-(2)(18200)
-(3)(20400)
-(Small diameter cutters. Softwoods, plastics, laminates.)
-(4)(22600)
-(5)(24800)
-(6)(27000)
+|Dial Setting|Approximate RPM|
+|------------|---------------|
+|           1|          16000|
+|           2|          18200|
+|           3|          20400|
+|           4|          22600|
+|           5|          24800|
+|           6|          27000|
+
+1-3 are appropriate for large diameter cutters, 4-6 are appropriate for small diameter cutters, softwoods, plastics and laminates.
 
 ### Controller
 
