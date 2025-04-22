@@ -26,9 +26,17 @@ To the right of the machine on the small table (under the PC shelf) is a waste b
 To the left of the machine on the floor is a bin for waste wood scraps that are not feasibly useful any longer.
 See [waste streams](../../using_the_space/waste_streams.md) for more details.
 
+## Troubleshooting
+
+If the machine does any of the following, immediately stop using it, turn off both switched sockets on the wall behind the machine and let Dan know:
+
+- illuminates all three status lamps at once
+- leaks cooling water
+
 ## Induction checklist
 
 - Turning on machine with fob, requirement for empty bed, emergency stop
+    - the requirement to operate emergency stop when sustained fire occurs
 - Panel controls
     - X/Y/Z axis motion
     - motion mode (central d-pad button)
