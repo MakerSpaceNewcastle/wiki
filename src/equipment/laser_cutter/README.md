@@ -60,3 +60,11 @@ If the machine does any of the following, immediately stop using it, turn off bo
 - Turning off machine and laptop
 - Available materials and waste streams in vicinity of machine
 - Use of the vacuum cleaner to tidy the machine after use
+
+## Statistics
+
+For those who are curious, the following dashboards are available to show telemetry data from the laser cutter:
+
+- [Overview](https://grafana.makerspace.dan-nixon.com/public-dashboards/fe9d271e85814020a9f9aa4444bb0a79)
+
+These are only able to be accessed when at the space.
