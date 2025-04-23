@@ -39,8 +39,8 @@
 
 1. Switch to the "Devices" tab  
    ![Bambu Studio devices tab with no printer added](./images/bambu_studio_empty_devices_tab.png)
-2. Click on "No printer" and select "3DP-01P-744" from the list
-3. When prompted enter the code for the appropriate printer [listed here](.#essential-information) (or via the printer menu as instructed if that code did not work, make sure to update the wiki if you had to do this).
+2. Click on "No printer" and select the printer you wish to use from the list (ensure it is powered on first)
+3. When prompted enter the code for the appropriate printer [listed here](.#essential-information) (**DO NOT reset the code via the printer menu**, just copy it from the wiki, I promise it is actually much easier than having to use the printer's menu)
    ![Bambu Studio printer access code screen](./images/bambu_studio_access_code.png)
 4. The printer status should now be shown in the "Device" tab  
    ![Bambu Studio devices tab printer added](./images/bambu_studio_devices_tab.png)

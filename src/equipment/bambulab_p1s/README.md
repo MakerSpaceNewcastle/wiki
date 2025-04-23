@@ -23,7 +23,7 @@ Very good, fast FDM 3D printers.
 
 > **3D printer filemant supplied by Maker Space must be paid for. See [3D Printer Filament](../../using_the_space/3d_printer_filament.md) for details.**
 
-While no induction is required, it is very strongly recommended to read the [user guide](./user_guide.md) before using the printer.
+While no induction is required, it is required that you read the [user guide](./user_guide.md) before using the printer.
 
 ## Useful links
 
