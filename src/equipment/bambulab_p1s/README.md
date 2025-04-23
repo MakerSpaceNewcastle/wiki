@@ -14,7 +14,7 @@ Very good, fast FDM 3D printers.
 
 |Printer |Nozzle size|LAN access code|Filament Options|
 |--------|-----------|---------------|----------------|
-|Hakurei |0.4mm      |41459176       |AMS compatible spools only|
+|Hakurei |0.4mm      |22497498       |AMS compatible spools only|
 |Kirisame|0.4mm      |29623040       |AMS compatible spools or up to 3 Kg spools via top spool caddy|
 
 ## Usage notes
@@ -23,7 +23,7 @@ Very good, fast FDM 3D printers.
 
 > **3D printer filemant supplied by Maker Space must be paid for. See [3D Printer Filament](../../using_the_space/3d_printer_filament.md) for details.**
 
-While no induction is required, it is very strongly recommended to read the [user guide](./user_guide.md) before using the printer.
+While no induction is required, it is required that you read the [user guide](./user_guide.md) before using the printer.
 
 ## Useful links
 
