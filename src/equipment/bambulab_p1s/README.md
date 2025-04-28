@@ -9,7 +9,7 @@ Very good, fast FDM 3D printers.
 
 - Location: Ground Floor Workshop
 - Responsible Person(s): Dan Nixon
-- Induction Required: No
+- Induction Required: Yes
 - Build volume: 256mm x 256mm x 256mm
 
 |Printer |Nozzle size|LAN access code|Filament Options|
@@ -21,10 +21,38 @@ Very good, fast FDM 3D printers.
 
 > **It is not permitted to leave this (or any other) 3D printer running whilst Maker Space is unoccupied!**
 
-> **3D printer filemant supplied by Maker Space must be paid for. See [3D Printer Filament](../../using_the_space/3d_printer_filament.md) for details.**
-
-While no induction is required, it is required that you read the [user guide](./user_guide.md) before using the printer.
+> **3D printer filament supplied by Maker Space must be paid for. See [3D Printer Filament](../../using_the_space/3d_printer_filament.md) for details.**
 
 ## Useful links
 
 - [Bambu Lab wiki](https://wiki.bambulab.com/en/home)
+
+## Induction checklist
+
+- General info
+    - Filament availability, compatible filaments, price for Maker Space filament, options for using own filament
+    - The requirement to not leave the machine running unattended
+    - Do not remove the memory cards unless you want to get timelapse footage
+- Start up procedure
+    - Power switch location
+    - Verify no obstacles inside printer
+- Bambu Studio
+    - Initial setup (if appropriate)
+    - Adding our printers (use codes above, not the printer menu)
+    - Configuring a basic print job
+    - The requirement to ensure the AMS is synchronised
+- Filament loading
+    - General filament handling, storage, the requirement to secure the loose end
+    - Loading via the AMS
+    - Loading vis the external spool
+- Start of job
+    - The ability to skip full bed levelling
+    - Build plate cleaning
+    - Check for correct build plate seating
+    - The requirement to observe the start of job and first layer
+- Fault handling
+    - Where to see fault codes in Bambu Studio
+    - The requirement to not attempt to maintain the printer
+- End of job
+    - Removal of parts from bed
+    - Ensure printer is left clean, serviceable and powered off

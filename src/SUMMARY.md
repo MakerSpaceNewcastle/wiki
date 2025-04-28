@@ -18,7 +18,6 @@
         - [Settings](./equipment/laser_cutter/settings.md)
         - [Personal Lightburn Setup](./equipment/laser_cutter/personal_lightburn_setup.md)
     - [Bambu Lab P1S](./equipment/bambulab_p1s/README.md)
-        - [User Guide](./equipment/bambulab_p1s/user_guide.md)
     - [Prusa MK3](./equipment/prusa_mk3/README.md)
     - [Desolder Station](./equipment/duratool_desolder_station/README.md)
     - [kWeld Spot Welder](./equipment/kweld_spot_welder/README.md)
