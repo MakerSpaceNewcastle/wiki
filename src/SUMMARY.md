@@ -37,6 +37,7 @@
     - [Music Server](./infrastructure/music_server/README.md)
     - [Tassimo machine/water dispenser](./infrastructure/bosch_tassimo_machine/README.md)
     - [DeLonghi Coffee Machine](./infrastructure/delonghi_coffee_machine/README.md)
+    - [Communications](./infrastructure/comms/README.md)
     - [Wiki](./infrastructure/wiki/README.md)
         - [Style Guide](./infrastructure/wiki/style_guide.md)
         - [Contributing](./infrastructure/wiki/contributing.md)
