@@ -11,7 +11,7 @@
     - [3D Printer Filament](./using_the_space/3d_printer_filament.md)
     - [Hack or Die](./using_the_space/hack_or_die.md)
     - [Waste Streams](./using_the_space/waste_streams.md)
-    - [Communications](./using_the_space/comms/README.md)
+    - [Communications](./using_the_space/communications/README.md)
 - [Equipment](./equipment/README.md)
     - [Abridged List](./equipment/abridged_list.md)
     - [Laser Cutter](./equipment/laser_cutter/README.md)
