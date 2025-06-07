@@ -48,6 +48,7 @@
         - [Using the space](./policies_and_procedures/induction/using_the_space.md)
         - [Entrance Lobby](./policies_and_procedures/induction/entrance_lobby.md)
         - [Main Workshop](./policies_and_procedures/induction/workshop.md)
+        - [Hallway](./policies_and_procedures/induction/hallway.md)
         - [Basement](./policies_and_procedures/induction/basement.md)
     - [Change Proposals](./policies_and_procedures/proposals/README.md)
     - [Keyholder Policy](./policies_and_procedures/keyholder_policy/README.md)

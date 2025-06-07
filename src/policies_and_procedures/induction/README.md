@@ -6,4 +6,5 @@ This is a checklist of the things that a person who is inducting a new member to
 - [Using the space](./using_the_space.md)
 - [Entrance Lobby](./entrance_lobby.md)
 - [Main Workshop](./workshop.md)
+- [Hallway](./hallway.md)
 - [Basement](./basement.md)

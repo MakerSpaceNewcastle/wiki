@@ -3,10 +3,9 @@
 ## Main room
 
 ### 3D Printers
-- No training but ask for help if you need it.  Follow the QR code for the Bambu.
-- **Unattended printing is not allowed.**
-- Filament is paid for by the users.  If you use it, bring some filament in occasionally.
-- **Do not try to maintain the printer.** Notify a maintainer or the discussion list. 
+- Induction required for Bambu Lab printers
+- Filament is paid for by the users. If you use it, bring some filament in occasionally.
+- (further details given in induction)
  
 
 ### Members' Store/ General Storage
@@ -30,7 +29,7 @@
 
 
 ### Fridge
-- Lemonade/Irn Bru - Free but please replenish what you use.
+- Lemonade/Irn Bru/Fruit - Free but please replenish what you use.
 - Club Mate - Prices/Payment details on the fridge.
 
 
@@ -55,7 +54,7 @@
 
 ## Side room (Goldfish Bowl)
 
-- PCs available for use.  Please don't install crap
+- PCs available for use.  Please don't install crap.
 - Vinyl Cutter 
 - Electronic component storage - keep it tidy!
 - Items Stored on the shelves belong to the space. They can be used but not to be hacked.  Don't take them away from the space without permission.
