@@ -27,7 +27,7 @@ Use this for scraps that are likely to no longer be of use.
 
 ### E-waste
 
-There is a box on the floor to the left of the laser cutter for e-waste.
+There is a box on the floor near to the common recycling bins in the main workshop.
 This is taken to a recycling centre and might be recycled to some extent, maybe.
 
 This may be used for small items of e-waste created in the space.
