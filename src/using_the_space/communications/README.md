@@ -3,13 +3,10 @@
 There are various ways to communicate with members and the wider maker community, including the following:
 
 ## Instant Messenger
-IM is available through matrix:
 
-```
-#makerspace-ncl:matrix.org
-#makerspace-ncl-main:matrix.org
-```
-### Element/Matrix (How to join)
+Our IM platform of choice is [Matrix](https://matrix.org/).
+
+### How to join
 
 A simple guide:
 
@@ -21,28 +18,25 @@ If you want to download a client (optional), there are clients for android, IOS,
 
 <https://matrix.org/docs/projects/try-matrix-now/>
 
-If you are new to Matrix, and using the browser version...
+If you are new to Matrix, and using Element in a web browser...
 
 1. Create an Account
 2. Sign in
-3. Click the Explore icon ![explore icon](images/explore.png) (top left under your username)
-4. Type makerspace in the search bar
-5. NOTE: You'll find a room called: Makerspace (Newcastle) (address is #makerspace-ncl-main:matrix.org) - That's us!
-6. Click ![join image](images/join.png) to join
-7. Chat away!
-
-
+3. Follow the matrix.to link for our space [here](https://matrix.to/#/#makerspace-ncl:matrix.org)
+4. Join the space and any rooms that you may be interested in
 
 ## Maker Space Member list
+
 There is a members list all members are subscribed to during the sign up process.
-Ask if you are a member and have not been added somehow!
+Ask if you are a member and have not already been added.
 
 It is used to discuss around, make decisions about the space operation and notify of updates to machine maintenance and the space in general.
+As a member, you are expected to keep an eye on emails on this list as they may contain important information about the space.
 
 __Please Note__: Emails to this list are vetted. Please do not attempt to send marketing material to this list.
 
-
 ## North-East-Makers list
+
 This is a list for the wider community, not just Maker Space members.
 North-East-Makers List for discussing anything related to making.
 
