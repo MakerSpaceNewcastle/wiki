@@ -65,6 +65,6 @@ If the machine does any of the following, immediately stop using it, turn off bo
 
 For those who are curious, the following dashboards are available to show telemetry data from the laser cutter:
 
-- [Overview](https://grafana.makerspace.dan-nixon.com/public-dashboards/fe9d271e85814020a9f9aa4444bb0a79)
+- [Overview](https://grafana.makerspace.org.uk/public-dashboards/fe9d271e85814020a9f9aa4444bb0a79)
 
 These are only able to be accessed when at the space.
