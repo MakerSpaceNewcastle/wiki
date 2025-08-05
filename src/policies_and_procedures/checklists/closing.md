@@ -30,6 +30,6 @@ Hallway:
 
 - Laser cutter: **logged out**
 - Lights: **off**
-- Alarm: **arm**
+- Alarm: **armed**
 - Main door Yale lock: **latched open**
 - Main door: **closed** and **locked**
