@@ -59,6 +59,7 @@
     - [Keyholder Proposal Procedure](./policies_and_procedures/keyholder_proposal/README.md)
     - [Code of Conduct](./policies_and_procedures/code_of_conduct/README.md)
     - [Grievance Procedure](./policies_and_procedures/grievance_procedure/README.md)
+    - [Pre Approved Purchases](./policies_and_procedures/pre_approved_purchases.md)
 - [History of Maker Space](./history/README.md)
     - [Maker Space 1](./history/ms1/README.md)
         - [MS1 Photos](./history/ms1/photos.md)
