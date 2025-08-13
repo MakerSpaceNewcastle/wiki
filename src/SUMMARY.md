@@ -44,6 +44,7 @@
         - [Contributing](./infrastructure/wiki/contributing.md)
 - [Policies and Procedures](./policies_and_procedures/README.md)
     - [New Member Procedure](./policies_and_procedures/new_member_procedure/README.md)
+    - [Safety Policies](./policies_and_procedures/safety_policies/README.md)
     - [Induction](./policies_and_procedures/induction/README.md)
         - [Introduction](./policies_and_procedures/induction/introduction.md)
         - [Using the space](./policies_and_procedures/induction/using_the_space.md)
