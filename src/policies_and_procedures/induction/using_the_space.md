@@ -31,9 +31,7 @@
 - Please do not leave food waste in the space.
 - Bins currently to be taken home. Please help out if you can (but only if you will dispose of waste streams correctly).
 - Battery disposal - Please take to a battery recycling point e.g. Tesco.
-- Recycling - Clean/Dry items that could go in a household recycling bin.
-- Ensure cans are empty and not likely to leak in someone's car
-- Soft plastics/films if marked with "Recycle at Store"
+- Recycling - in workshop.
 - Small electronics/e-waste in marked box in entrance lobby.
 - Do not bring waste into the space just to dispose of it.
 - (see [Waste Streams](../../using_the_space/waste_streams.md))
