@@ -20,10 +20,16 @@
 - Drills, hand power tools, Dremel and bits/collets near the Workbee CNC machine. 
 - Return tools when you have finished with them, definitely before leaving space.
  
+## Air filters
+- Buttons to control them mounted on the walls.
+
+## First Aid Kit
+- On top of filter on South side.
 
 ## Storage
 - Wood Store - Help yourself - Add more wood/offcuts when finished own projects. Please check for "Do Not Hack" stickers before using.
-- Nuts/Bolts/Screws - please keep tidy - use "M Don't Know" if you can't determine the size. 
+- Timber recycling box under shelves
+- Nuts/Bolts/Screws - please keep tidy - use "M Don't Know" if you can't determine the size.
 - Metal Store - to be used for projects etc.  Be careful of sharp edges, don't leave any for others.
 - Table legs may not be spare.  Please check before using.
 
@@ -34,3 +40,7 @@
 - No dangerous chemicals please.
 - No spray painting in the space - ventilation isn't adequate.
 - No flames/smoking
+
+### Hot Work - Grinding / Welding
+- Grinding requires a second person to act as Fire Watch.
+- Welding not currently covered by the insurance.
