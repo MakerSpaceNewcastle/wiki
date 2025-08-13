@@ -75,7 +75,7 @@ See [3D Printer Filament](../../using_the_space/3d_printer_filament.md) for deta
 
 
 ### Media Centre
-- See [Media Server](../../infrastructure/music_server/README.md) for details.
+- See [Media Server](../../infrastructure/music_server/) for details.
 
 
 ## Side room (Goldfish Bowl)
