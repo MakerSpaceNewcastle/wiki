@@ -62,3 +62,6 @@ Typical techniques most people will need to know would include:
 - appreciation of cutting speeds
 - tool selection / sharpening
 - typical cuts (e.g. facing / boring etc) 
+
+## Spare Parts
+- Toothed Belt 170XL050: e.g. https://simplybearings.co.uk/shop/p670999/170XL050-Major-Brand-Synchronous-Toothed-Belt-0.50-inch-Wide-17-inch-Length-85-Teeth/product_info.html
