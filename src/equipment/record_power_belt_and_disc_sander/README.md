@@ -31,7 +31,7 @@ You will be expected to demonstrate the following competencies before gaining RF
 
 ## Spare Parts
 
-- 250mm Self Adhesive Sanding Discs: e.g. https://www.axminstertools.com/proxxon-self-adhesive-sanding-disc-250mm-80grit-ptk-5-477029
-- 150mm x 1,220mm Sanding Belt: e.g. https://www.axminstertools.com/hermes-abrasive-belt-150-x-1-220mm-x-80-grit-110224
+- 250mm Self Adhesive Sanding Discs: e.g. [https://www.axminstertools.com/proxxon-self-adhesive-sanding-disc-250mm-80grit-ptk-5-477029](https://www.axminstertools.com/proxxon-self-adhesive-sanding-disc-250mm-80grit-ptk-5-477029)
+- 150mm x 1,220mm Sanding Belt: e.g. [https://www.axminstertools.com/hermes-abrasive-belt-150-x-1-220mm-x-80-grit-110224](https://www.axminstertools.com/hermes-abrasive-belt-150-x-1-220mm-x-80-grit-110224)
 
-- Belt Cleaner: e.g. https://www.axminstertools.com/axminster-abrasive-belt-cleaner-standard-210-x-40-x-40-310398
+- Belt Cleaner: e.g. [https://www.axminstertools.com/axminster-abrasive-belt-cleaner-standard-210-x-40-x-40-310398](https://www.axminstertools.com/axminster-abrasive-belt-cleaner-standard-210-x-40-x-40-310398)
