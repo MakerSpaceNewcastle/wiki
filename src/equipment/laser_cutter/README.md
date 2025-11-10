@@ -66,5 +66,5 @@ If the machine does any of the following, immediately stop using it, turn off bo
 
 For those who are curious, the following dashboards are available to show telemetry data from the laser cutter:
 
-- [Overview](https://grafana.makerspace.org.uk/public-dashboards/fe9d271e85814020a9f9aa4444bb0a79)
-- [Diagnostics](https://grafana.makerspace.org.uk/public-dashboards/7f2b20fd86584aa1a18730008ca00353)
+- [Overview](https://grafana.makerspace.org.uk/d/aejqxecl8fqioa/hoshiguma3a-overview)
+- [Diagnostics](https://grafana.makerspace.org.uk/d/dejsskmjc6ps0b/hoshiguma3a-diagnostics)
