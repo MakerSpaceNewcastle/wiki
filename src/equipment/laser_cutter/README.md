@@ -5,6 +5,8 @@
 A laser cutter.
 It cuts stuff using a laser.
 
+It has an 80W CO2 laser and a bed with a usable area of 580x380mm.
+
 ## Essential Information
 
 - Location: Ground Floor Corridor
