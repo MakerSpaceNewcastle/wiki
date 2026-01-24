@@ -1,10 +1,7 @@
 # Setting up LightBurn on your own laptop
 
-It is possible to use your own laptop for preparing jobs and running the laser cutter.
+It is possible to use your own laptop for preparing jobs, however the PC next to the machine must always be used for running the machine.
 To do so, you will need LightBurn installed and licensed and the configuration for the laser cutter installed.
-
-When operating the laser cutter, simply plug the USB cable into your laptop.
-Remember to plug it back into the communal laptop once you are finished (i.e. leave things how you found them).
 
 ## Process
 
