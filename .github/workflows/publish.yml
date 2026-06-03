@@ -26,7 +26,7 @@ jobs:
         run: mdbook build
 
       - name: Publish to Cloudflare Pages
-        uses: cloudflare/wrangler-action@v3
+        uses: cloudflare/wrangler-action@v4
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: 03654dab23842c712e474f409d58f55c
