@@ -10,17 +10,14 @@ Our IM platform of choice is [Matrix](https://matrix.org/).
 
 A simple guide:
 
-For a web based Matrix client (requiring no installation or anything else), go to:
+For a web based Matrix client (requiring no installation or anything else), go to: <https://app.element.io>
 
-<https://app.element.io>
+On Android and iOS, Element X is recommended.
 
-If you want to download a client (optional), there are clients for android, IOS, linux, windows and easiest of all, browser only version, which is probably ideal for trying out for the first time here:
 
-<https://matrix.org/docs/projects/try-matrix-now/>
+If you are new to Matrix, and using Element in a web browser.
 
-If you are new to Matrix, and using Element in a web browser...
-
-1. Create an Account
+1. Create an account (see [this guide](https://matrix.org/docs/chat_basics/matrix-for-im/#creating-a-matrix-account))
 2. Sign in
 3. Follow the matrix.to link for our space [here](https://matrix.to/#/#makerspace-ncl:matrix.org)
 4. Join the space and any rooms that you may be interested in
