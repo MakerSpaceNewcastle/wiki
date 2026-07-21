@@ -23,6 +23,7 @@
     - [Desolder Station](./equipment/duratool_desolder_station/README.md)
     - [kWeld Spot Welder](./equipment/kweld_spot_welder/README.md)
     - [CNC Mill](./equipment/cnc_mill/README.md)
+    - [CNC Mill (Ibuki)](./equipment/cnc_mill_ibuki/README.md)
     - [Axminster Bandsaw](./equipment/axminster_bandsaw/README.md)
     - [Record Power Drill Press](./equipment/record_power_drill_press/README.md)
     - [Record Power Belt and Disc Sander](./equipment/record_power_belt_and_disc_sander/README.md)

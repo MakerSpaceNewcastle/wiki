@@ -20,6 +20,7 @@ More information about the skills and knowledge you will be required to demonstr
 ## [Ground Floor Corridor](../the_space/ground_floor_corridor.md)
 
 - [Laser Cutter](./laser_cutter/)
+- [CNC Mill (Ibuki)](./cnc_mill_ibuki/)
 
 ## [Ground Floor Workshop](../the_space/ground_floor_workshop.md)
 
