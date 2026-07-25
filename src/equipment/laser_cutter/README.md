@@ -73,4 +73,3 @@ If any of the following happen, immediately stop using the machine, turn off bot
 For those who are curious, the following dashboards are available to show telemetry data from the laser cutter:
 
 - [Overview](https://grafana.makerspace.org.uk/d/aejqxecl8fqioa/hoshiguma3a-overview)
-- [Diagnostics](https://grafana.makerspace.org.uk/d/dejsskmjc6ps0b/hoshiguma3a-diagnostics)
