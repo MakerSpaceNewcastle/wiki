@@ -31,7 +31,7 @@ More information about the skills and knowledge you will be required to demonstr
 
 ## [South Basement Workshop](../the_space/south_basement_workshop.md)
 
-- [CNC Mill](./cnc_mill/)
+- [CNC Mill (Komachi)](./cnc_mill_komachi/)
 - [Axminster Bandsaw](./axminster_bandsaw/)
 - [Record Power Drill Press](./record_power_drill_press/)
 - [Record Power Belt & Disc Sander](./record_power_belt_and_disc_sander/)
