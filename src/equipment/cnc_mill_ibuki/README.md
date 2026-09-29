@@ -1,8 +1,8 @@
 # CNC Mill (Ibuki)
 
-[<img class="equipment-thumbnail" src="./images/overview.jpg" alt="Laser cutter overview">](./images/overview.jpg)
+[<img class="equipment-thumbnail" src="./images/overview.jpg" alt="Ibuki CNC mill overview">](./images/overview.jpg)
 
-A Isel GFM 4433 that we aquired with a faulty control system from Monkseaton High School (which closed)
+An Isel GFM 4433 that we aquired with a faulty control system from Monkseaton High School (which closed)
 Upgraded with a [RP23CNC](https://github.com/phil-barrett/RP23CNC).
 
 It has a usable bed size of approximately 500x350mm.
@@ -34,4 +34,3 @@ It has a usable bed size of approximately 500x350mm.
 - Turning off machine
 - The need to keep the machine tidy
 - Please note, machine does not enjoy alcoholic drinks.
-
