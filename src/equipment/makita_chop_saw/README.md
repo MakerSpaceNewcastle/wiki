@@ -1,6 +1,6 @@
 # Makita Chop Saw
 
-[<img class="equipment-thumbnail" src="./images/overview.jpg" alt="Bandsaw overview">](./images/overview.jpg)
+[<img class="equipment-thumbnail" src="./images/overview.jpg" alt="Chop Saw overview">](./images/overview.jpg)
 
 Makita LS1019L Slide Compound Mitre Saw
 
