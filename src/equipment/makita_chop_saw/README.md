@@ -12,7 +12,7 @@ Makita LS1019L Slide Compound Mitre Saw
 
 ## Usage notes
 
-The manual for this machine can be found [here](./LS1019L.pdf).
+The manual for this machine can be found on the manufacturer's website [here](https://www.icmsmakita.eu/CMS/custom/fi/attachments/user_manuals/User_manuals_EU2/LS1019L.pdf).
 
 You will be expected to demonstrate the following competencies before gaining RFID access to this machine:
 
