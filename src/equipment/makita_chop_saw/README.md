@@ -8,7 +8,7 @@ Makita LS1019L Slide Compound Mitre Saw
 
 - Location: South Basement Workshop
 - Responsible Person(s): Iain Yarnall
-- Induction Required: No?
+- Induction Required: Yes
 
 ## Usage notes
 
