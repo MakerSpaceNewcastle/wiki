@@ -32,6 +32,7 @@
     - [Metal Lathe](./equipment/metal_lathe/README.md)
     - [Large Bench Grinder](./equipment/large_bench_grinder/README.md)
     - [Large Air Compressor](./equipment/large_air_compressor/README.md)
+    - [Lumberjack Wood Lathe](./equipment/lumberjack_wood_lathe/README.md)
 - [Infrastructure](./infrastructure/README.md)
     - [RFID Access Controllers](./infrastructure/rfid_access_controllers/README.md)
     - [Main Workshop Air Exchange](./infrastructure/main_workshop_air_exchange/README.md)
